@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Fanlave" skipped="0" tests="1" time="90.55" timestamp="2023-03-26 08:35:55"><testcase name="Fanslave"><error message="Cannot invoke &quot;org.openqa.selenium.WebElement.isDisplayed()&quot; because &quot;element&quot; is null" type="java.lang.NullPointerException">Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null</error><system-err>Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null&#13;
+Espera.Espera.queSeaVisible(Espera.java:74)&#13;
+Trabajo.Trabajar.trafic(Trabajar.java:209)&#13;
+Steps.TrabajarSteps.el_usuario_accede_a_la_pagina_de_trabajo_y_comienza_a_trabajar(TrabajarSteps.java:29)&#13;
+✽.el usuario accede a la pagina de trabajo y comienza a trabajar(classpath:features/BotFanslave.feature:5)&#13;
+</system-err></testcase></testsuite>
